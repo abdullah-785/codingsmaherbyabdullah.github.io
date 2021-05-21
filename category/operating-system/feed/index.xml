@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>operating system &#8211; codingsmaherbyabdullah.github.io</title>
+	<atom:link href="http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/category/operating-system/feed/" rel="self" type="application/rss+xml" />
+	<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 20 May 2021 10:34:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/wp-content/uploads/2021/05/IMG_20210514_151252.png</url>
+	<title>operating system &#8211; codingsmaherbyabdullah.github.io</title>
+	<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Shortest Job First Serve (SJFS) Scheduling</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/shortest-job-first-serve-sjfs-scheduling/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/shortest-job-first-serve-sjfs-scheduling/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:34:37 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=586</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/shortest-job-first-serve-sjfs-scheduling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Round Robin Scheduling (RR)</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/round-robin-scheduling-rr/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/round-robin-scheduling-rr/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:33:27 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=584</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/round-robin-scheduling-rr/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Producer Consumer Problem</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/producer-consumer-problem/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/producer-consumer-problem/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:32:33 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=582</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/producer-consumer-problem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Priority Base Scheduling</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/priority-base-scheduling/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/priority-base-scheduling/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:31:28 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=580</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/priority-base-scheduling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Internal Memory Management</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/internal-memory-management/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/internal-memory-management/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:30:23 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=578</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/internal-memory-management/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Best Fit, Frist Fit, Worst fit</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/best-fit-frist-fit-worst-fit/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/best-fit-frist-fit-worst-fit/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:29:04 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=576</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/best-fit-frist-fit-worst-fit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First Come First Serve (FCFS) Scheduling</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/first-come-first-serve-fcfs-scheduling/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/first-come-first-serve-fcfs-scheduling/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:27:42 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=574</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/first-come-first-serve-fcfs-scheduling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>External Memory Management</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/external-memory-management/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/external-memory-management/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:26:11 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=572</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/external-memory-management/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dining Philosopher Problem</title>
+		<link>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/dining-philosopher-problem/</link>
+					<comments>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/dining-philosopher-problem/#respond</comments>
+		
+		<dc:creator><![CDATA[codingsmaherbyabdullah.github.io]]></dc:creator>
+		<pubDate>Thu, 20 May 2021 10:21:32 +0000</pubDate>
+				<category><![CDATA[c++]]></category>
+		<category><![CDATA[operating system]]></category>
+		<guid isPermaLink="false">http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/?p=570</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://abdullah-785.github.io/codingsmaherbyabdullah.github.io/dining-philosopher-problem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
